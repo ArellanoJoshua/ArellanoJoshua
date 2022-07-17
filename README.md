@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Arellano. I am a programming technician, passionate about creating elegant and functional web pages that seek to meet the established needs. I have worked on projects of all kinds, from the creation of desktop applications (Java), mobile applications (kotlin) and finally web pages (HTML5, CSS3, Javascript, php, MySQL).</h1>
+<h1 align="center">Hi 👋, I'm Joshua Arellano. I am a programming technician</h1><br>I have worked on projects of all kinds, from the creation of desktop applications (Java), mobile applications (kotlin) and finally web pages (HTML5, CSS3, Javascript, php, MySQL).
 <h3 align="center">A passionate web developer from México</h3>
 
 - 🔭 I’m currently working on **my portfolio using react**
@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@josharel123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@josharel123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/arellanojoshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/arellanojoshua" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17659842/joshar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17659842/joshar" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/arellanojoshua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/arellanojoshua" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17659842/joshar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17659842/joshar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
